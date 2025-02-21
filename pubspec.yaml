@@ -61,6 +61,16 @@ flutter:
 
   assets:
       - assets/images/meditate-image.png
+      - assets/images/moon_illustrarion.jpg
+      - assets/images/salad1.jpg
+      - assets/images/salad2.jpg
+      - assets/images/icecream.jpg
+      - assets/images/vegan.jpg
+      - assets/images/pasta.jpg
+      - assets/images/sleep_hour.jpg
+      - assets/images/mission.png
+      - assets/images/relax.jpg
+      - assets/images/sun_energy.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
